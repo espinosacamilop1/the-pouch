@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px;
+    background-color: red; 
+}
+
+.navbar_links{
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
